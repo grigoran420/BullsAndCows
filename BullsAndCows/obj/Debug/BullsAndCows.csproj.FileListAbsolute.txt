@@ -1,0 +1,10 @@
+D:\проекты в резюме\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe.config
+D:\проекты в резюме\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.exe
+D:\проекты в резюме\BullsAndCows\BullsAndCows\bin\Debug\BullsAndCows.pdb
+D:\проекты в резюме\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csprojAssemblyReference.cache
+D:\проекты в резюме\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Form1.resources
+D:\проекты в резюме\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.Properties.Resources.resources
+D:\проекты в резюме\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.GenerateResource.cache
+D:\проекты в резюме\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.csproj.CoreCompileInputs.cache
+D:\проекты в резюме\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.exe
+D:\проекты в резюме\BullsAndCows\BullsAndCows\obj\Debug\BullsAndCows.pdb
